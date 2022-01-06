@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maze-solver/static/css/main.903a344a.css",
+    "main.js": "/maze-solver/static/js/main.a80c17c0.js",
+    "index.html": "/maze-solver/index.html",
+    "main.903a344a.css.map": "/maze-solver/static/css/main.903a344a.css.map",
+    "main.a80c17c0.js.map": "/maze-solver/static/js/main.a80c17c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.903a344a.css",
+    "static/js/main.a80c17c0.js"
+  ]
+}
