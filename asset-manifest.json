@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/maze-solver/static/css/main.903a344a.css",
-    "main.js": "/maze-solver/static/js/main.a80c17c0.js",
+    "main.css": "/maze-solver/static/css/main.0b3d3b38.css",
+    "main.js": "/maze-solver/static/js/main.5f4016e7.js",
     "index.html": "/maze-solver/index.html",
-    "main.903a344a.css.map": "/maze-solver/static/css/main.903a344a.css.map",
-    "main.a80c17c0.js.map": "/maze-solver/static/js/main.a80c17c0.js.map"
+    "static/media/caret.svg": "/maze-solver/static/media/caret.8d4a9ac9c10811c65db4a50b20d1c0b3.svg",
+    "static/media/info.svg": "/maze-solver/static/media/info.10dd603cec87541ab0a360909aa8803c.svg",
+    "static/media/check.svg": "/maze-solver/static/media/check.6a318b8dd3700fbfffdbdeb239a7ade9.svg",
+    "main.0b3d3b38.css.map": "/maze-solver/static/css/main.0b3d3b38.css.map",
+    "main.5f4016e7.js.map": "/maze-solver/static/js/main.5f4016e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.903a344a.css",
-    "static/js/main.a80c17c0.js"
+    "static/css/main.0b3d3b38.css",
+    "static/js/main.5f4016e7.js"
   ]
 }
